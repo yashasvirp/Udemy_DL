@@ -3,3 +3,11 @@ src/.ipynb_checkpoints
 .ipynb_checkpoints/
 DUDL_PythonCode/
 data/cifar10
+data/FashionMNIST/
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/emnist/
+data/img/
+data/stl10_binary.tar.gz
+data/stl10_binary/
+
